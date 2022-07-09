@@ -1,6 +1,4 @@
 <?php
 
-$nome = 1;
-
-print $nome
+  print "Testando o git hub";
 ?>
